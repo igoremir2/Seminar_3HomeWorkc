@@ -8,7 +8,6 @@
 
 конфликт:
 ![](im3.png)
-* git checkout -b
 * git branch -d "ветка" - удаление ветки
 * git branch "ветка" - создание ветки
 * git branch - список всех веток
