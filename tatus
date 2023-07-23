@@ -1,0 +1,90 @@
+[33mcommit 665e824ce3eb0fb23e8a2523265aed14fc4b4d17[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Igor <igoremir2@gmail.com>
+Date:   Sun Jul 23 15:13:09 2023 +0300
+
+    после слияния с case2
+
+[33mcommit 827e9f55692cb036df9247a328293a0e2861fd77[m[33m ([m[1;32mcase2[m[33m)[m
+Author: Igor <igoremir2@gmail.com>
+Date:   Sun Jul 23 15:11:08 2023 +0300
+
+    изменнения в ветке case2
+
+[33mcommit 1806505f81ab46b0799da544a35c8fa69141ccc0[m[33m ([m[1;32mcase1[m[33m)[m
+Author: Igor <igoremir2@gmail.com>
+Date:   Sun Jul 23 13:22:29 2023 +0300
+
+    теперь точно конец
+
+[33mcommit 920fba8a639476c6cc576decc59431ed4bfd63ee[m
+Author: Igor <igoremir2@gmail.com>
+Date:   Sun Jul 23 13:19:52 2023 +0300
+
+    конец второй лекции
+
+[33mcommit d164c0c98cd679ccc3ccfa5b72f7bff1167a505b[m
+Merge: 60fdaf5 d450492
+Author: Igor <igoremir2@gmail.com>
+Date:   Sun Jul 23 13:10:42 2023 +0300
+
+    Merge branch 'lists'
+
+[33mcommit 60fdaf5c399746716ca26fced0c576c16244a77f[m
+Author: Igor <igoremir2@gmail.com>
+Date:   Sun Jul 23 13:06:55 2023 +0300
+
+    какаято дичь
+
+[33mcommit 4b5100ba93cb52ccf712f83b68e5da616552ed74[m
+Author: Igor <igoremir2@gmail.com>
+Date:   Sun Jul 23 12:47:05 2023 +0300
+
+    Добавили доп выделения
+
+[33mcommit d4504929ea60e2b6e0949a4938244e6962b6eda6[m
+Author: Igor <igoremir2@gmail.com>
+Date:   Sun Jul 23 12:40:06 2023 +0300
+
+    добавил списки
+
+[33mcommit c96ecccc0d9cd3634da42b65f57b0577985d8169[m
+Author: Igor <igoremir2@gmail.com>
+Date:   Sun Jul 23 12:32:06 2023 +0300
+
+    добавил выделелния
+
+[33mcommit 96c7eaf60ea65797126613a5cdb724cb5ef04549[m
+Author: Igor <igoremir2@gmail.com>
+Date:   Sun Jul 23 12:25:23 2023 +0300
+
+    Добавил инструкцию для работы с markdown структуру
+
+[33mcommit 6bd5ffde00ff45e42255e4fc21b48a5bcddd4c26[m
+Author: Igor <igoremir2@gmail.com>
+Date:   Sun Jul 23 12:19:59 2023 +0300
+
+    сщхранение на 23.07.23
+
+[33mcommit e34209e7e49bfb287995d0c2e1e8846bb37bf977[m
+Author: Igor <igoremir2@gmail.com>
+Date:   Sat Jul 22 15:24:34 2023 +0300
+
+    Добавили коммит
+
+[33mcommit de1b1766672c5162db18b5c967dcab930256540c[m
+Author: Igor <igoremir2@gmail.com>
+Date:   Sat Jul 22 15:17:15 2023 +0300
+
+    Добавили команду
+
+[33mcommit 6d08cc0f6c9f9ca3ececef0c084617eb6e878904[m
+Author: Igor <igoremir2@gmail.com>
+Date:   Sat Jul 22 15:15:12 2023 +0300
+
+    Добавили подзаголовок
+
+[33mcommit 828492dbba33b66ae7ead0aad0f6d0805f4ddccc[m
+Author: Igor <igoremir2@gmail.com>
+Date:   Sat Jul 22 15:11:45 2023 +0300
+
+    Добавили заголовок
